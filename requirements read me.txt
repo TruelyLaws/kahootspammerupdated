@@ -1,0 +1,7 @@
+You must have installed :
+
+Python 3.9 and up +
+
+Chromedriver
+
+(This does not work on Mac)
