@@ -4,4 +4,6 @@ Python 3.9 and up +
 
 Chromedriver
 
+intel core i3 +
+
 (This does not work on Mac)
